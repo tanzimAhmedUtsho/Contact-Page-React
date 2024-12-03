@@ -1,12 +1,15 @@
 
 
 import './App.css'
+import Navigation from './components/Navigation/Navigation'
 
 function App() {
   
 
   return (
-   <div></div>
+   <div>
+    <Navigation/>
+   </div>
   )
 }
 

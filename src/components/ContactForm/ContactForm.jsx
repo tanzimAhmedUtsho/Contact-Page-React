@@ -49,7 +49,10 @@ const ContactForm = () => {
 
 
         </div>
-        <div className={styles.contact_image}></div>
+        <div className={styles.contact_image}>
+<img src="/public/images/Service 24_7-pana 1.svg" alt="contact image" />
+
+        </div>
     </section>
   )
 }

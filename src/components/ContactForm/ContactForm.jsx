@@ -5,6 +5,10 @@ import { FaPhoneAlt } from "react-icons/fa";
 import { HiMail } from "react-icons/hi";
 
 const ContactForm = () => {
+
+
+
+
   return (
     <section className={styles.container}>
         <div className={styles.contact_form}>
